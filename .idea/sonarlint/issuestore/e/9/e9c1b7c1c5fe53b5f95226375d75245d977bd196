@@ -1,0 +1,7 @@
+
+Qsquid:S1118	":Add a private constructor to hide the implicit public one.(œö³æ
+Qsquid:S1118
+":Add a private constructor to hide the implicit public one.(ÆîÀß
+esquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆîÀß
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õì½şÿÿÿÿ

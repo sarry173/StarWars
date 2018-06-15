@@ -1,0 +1,5 @@
+
+\squid:S2184"@Cast one of the operands of this addition operation to a "long".(์อฃ๘ÿÿÿÿ
+ข%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ตอ๙ลüÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ตอ๙ลüÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ตอ๙ลüÿÿÿÿ

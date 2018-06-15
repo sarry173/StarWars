@@ -1,0 +1,4 @@
+
+}squid:S14501"aRemove the "characterViewModel" field and declare it as a local variable in the relevant methods.(ΣτΨωÿÿÿÿ
+jsquid:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(υρ…θ
+dsquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(εσ’T

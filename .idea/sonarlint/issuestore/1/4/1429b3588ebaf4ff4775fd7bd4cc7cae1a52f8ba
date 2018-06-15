@@ -1,0 +1,4 @@
+
+Ysquid:UselessImportCheck"5Remove this unused import 'android.os.Build.VERSION'.(Ø…þ²
+fsquid:UselessImportCheck"BRemove this unused import 'android.databinding.BindingConversion'.(ÏÌ¡«
+_squid:UselessImportCheck";Remove this unused import 'android.os.Build.VERSION_CODES'.(Ô®²¥

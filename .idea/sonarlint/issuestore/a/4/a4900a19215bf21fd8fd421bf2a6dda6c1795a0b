@@ -1,0 +1,9 @@
+
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—Öá¶
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜Ó´¸
+gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Qsquid:S1481"5Remove this unused "visibleItemCount" local variable.(àåÎšýÿÿÿÿ
+Tsquid:S1481"=Remove this unused "firstVisibleItemPosition" local variable.(¦ÏÍ¿
+csquid:S1854"LRemove this useless assignment to local variable "firstVisibleItemPosition".(¦ÏÍ¿
+Ysquid:S1854"BRemove this useless assignment to local variable "totalItemCount".(™ŸÓ„
+`squid:S1854"DRemove this useless assignment to local variable "visibleItemCount".(àåÎšýÿÿÿÿ

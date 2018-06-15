@@ -1,0 +1,7 @@
+
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ß€«øüÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¯ÖÎþ
+Isquid:S1481"-Remove this unused "stringTo" local variable.(¹–í§úÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ò×ãœûÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148#"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
